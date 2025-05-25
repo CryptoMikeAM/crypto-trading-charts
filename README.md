@@ -98,3 +98,42 @@ This application is open source and released under the MIT license.
 ## Disclaimer
 
 Use of this application is at your own risk. The developer assumes no liability for damages that may arise from the use of the application. 
+
+------
+
+At startup, they have to select the number of frames
+
+![01_selected_frames](images/01_selected_frames.png)
+
+
+After selecting the frames, the frames are displayed accordingly. When you start it for the first time, you still have to log in to a window in your Tradingview account.
+
+![02_all_frames](images/02_all_frames.png)
+
+
+Full screen of the frame
+
+![03_frame_fullscreen](images/03_frame_fullscreen.png)
+
+
+Liquidity headmap
+
+![04_Headmap](images/04_Headmap.png)
+
+
+Favorites
+
+![05_favorites](images/05_favorites.png)
+
+
+Settings
+
+![06_settings](images/06_settings.png)
+
+
+
+
+
+
+
+ 
